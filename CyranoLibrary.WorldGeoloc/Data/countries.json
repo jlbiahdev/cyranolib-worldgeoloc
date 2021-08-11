@@ -12,7 +12,11 @@
     { "Name" : "Australia", "Iso2" : "AU", "Iso3" : "AUS" },
     { "Name" : "Austria", "Iso2" : "AT", "Iso3" : "AUT" },
     { "Name" : "Azerbaijan", "Iso2" : "AZ", "Iso3" : "AZE" },
-    { "Name" : "Bahamas", "Iso2" : "", "Iso3" : "" },
+  {
+    "Name": "Bahamas",
+    "Iso2": "BS",
+    "Iso3": "BHS"
+  },
     { "Name" : "Bahrain", "Iso2" : "BH", "Iso3" : "BHR" },
     { "Name" : "Bangladesh", "Iso2" : "BD", "Iso3" : "BGD" },
     { "Name" : "Barbados", "Iso2" : "BB", "Iso3" : "BRB" },
@@ -71,7 +75,11 @@
     { "Name" : "French Guiana", "Iso2" : "GF", "Iso3" : "GUF" },
     { "Name" : "French Polynesia", "Iso2" : "PF", "Iso3" : "PYF" },
     { "Name" : "Gabon", "Iso2" : "GA", "Iso3" : "GAB" },
-    { "Name" : "Gambia", "Iso2" : "", "Iso3" : "" },
+  {
+    "Name": "Gambia",
+    "Iso2": "GM",
+    "Iso3": "GMB"
+  },
     { "Name" : "Georgia", "Iso2" : "GE", "Iso3" : "GEO" },
     { "Name" : "Germany", "Iso2" : "DE", "Iso3" : "DEU" },
     { "Name" : "Ghana", "Iso2" : "GH", "Iso3" : "GHA" },
@@ -105,8 +113,16 @@
     { "Name" : "Kazakhstan", "Iso2" : "KZ", "Iso3" : "KAZ" },
     { "Name" : "Kenya", "Iso2" : "KE", "Iso3" : "KEN" },
     { "Name" : "Kiribati", "Iso2" : "KI", "Iso3" : "KIR" },
-    { "Name" : "Korea", "Iso2" : "", "Iso3" : "" },
-    { "Name" : "Korea", "Iso2" : "", "Iso3" : "" },
+  {
+    "Name": "Korea",
+    "Iso2": "KR",
+    "Iso3": "KOR"
+  },
+  {
+    "Name": "Korea",
+    "Iso2": "KP",
+    "Iso3": "PRK"
+  },
     { "Name" : "Kosovo", "Iso2" : "XK", "Iso3" : "XKS" },
     { "Name" : "Kuwait", "Iso2" : "KW", "Iso3" : "KWT" },
     { "Name" : "Kyrgyzstan", "Iso2" : "KG", "Iso3" : "KGZ" },
@@ -133,7 +149,11 @@
     { "Name" : "Mauritius", "Iso2" : "MU", "Iso3" : "MUS" },
     { "Name" : "Mayotte", "Iso2" : "YT", "Iso3" : "MYT" },
     { "Name" : "Mexico", "Iso2" : "MX", "Iso3" : "MEX" },
-    { "Name" : "Micronesia", "Iso2" : "", "Iso3" : "" },
+  {
+    "Name": "Micronesia",
+    "Iso2": "FM",
+    "Iso3": "FSM"
+  },
     { "Name" : "Moldova", "Iso2" : "MD", "Iso3" : "MDA" },
     { "Name" : "Monaco", "Iso2" : "MC", "Iso3" : "MCO" },
     { "Name" : "Mongolia", "Iso2" : "MN", "Iso3" : "MNG" },
@@ -166,7 +186,11 @@
     { "Name" : "Romania", "Iso2" : "RO", "Iso3" : "ROU" },
     { "Name" : "Russia", "Iso2" : "RU", "Iso3" : "RUS" },
     { "Name" : "Rwanda", "Iso2" : "RW", "Iso3" : "RWA" },
-    { "Name" : "Saint Helena", "Iso2" : "", "Iso3" : "" },
+  {
+    "Name": "Saint Helena",
+    "Iso2": "SH",
+    "Iso3": "SHN"
+  },
     { "Name" : "Saint Kitts And Nevis", "Iso2" : "KN", "Iso3" : "KNA" },
     { "Name" : "Saint Lucia", "Iso2" : "LC", "Iso3" : "LCA" },
     { "Name" : "Saint Vincent And The Grenadines", "Iso2" : "VC", "Iso3" : "VCT" },
